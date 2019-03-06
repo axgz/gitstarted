@@ -1,2 +1,2 @@
 # gitstarted
-linked to https://gitstarted.azurewebsites.net
+continuous deployment of https://github.com/axgz/gitstarted to https://axgz.azurewebsites.net/
