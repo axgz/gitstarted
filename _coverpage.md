@@ -1,6 +1,6 @@
 # Docs time 
 
-![logo](background.jpeg)
+![logo](logo.jpeg)
 
 Github, git, VSCode, docsify
 
